@@ -2,6 +2,8 @@
 MongoDB Compass Documentation
 =============================
 
+test
+
 This repository contains documentation regarding MongoDB Compass. This
 documentation builds on the work of the `MongoDB
 Manual <http://docs.mongodb.org/manual/>`_.
